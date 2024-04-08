@@ -1,0 +1,10 @@
+node:
+  version: '20.12.0'
+  packageManager: 'yarn'
+  yarn:
+    version: '4.1.1'
+
+# Enable Rust and override default settings
+rust:
+  version: stable
+  syncToolchainConfig: true

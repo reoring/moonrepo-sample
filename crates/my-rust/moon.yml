@@ -1,0 +1,5 @@
+id: 'hoge'
+tags: ['rust']
+dependsOn:
+  - id: 'hoge2'
+    scope: 'peer'

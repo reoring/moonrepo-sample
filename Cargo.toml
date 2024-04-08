@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "crates/my-rust",
+    "crates/my-rust2",
+]
